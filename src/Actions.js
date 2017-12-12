@@ -11,8 +11,7 @@ export const draw = () => {
     imageObj1.onload = function () {
         ctx.drawImage(imageObj1, 0, 10, 600, 500);
         imageObj2.setAttribute('crossOrigin', 'anonymous'); // works for me
-        imageObj2.src = store.getState().logo;
-        
+        imageObj2.src = store.getState().logo;        
         imageObj2.onload = function () {
             ctx.drawImage(imageObj2, 200, 150, 80, 50);
             var img = c.toDataURL("image/png");

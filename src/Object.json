@@ -1,0 +1,150 @@
+{
+    "male": {
+        "adult": {
+            "white" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/1/appearances/1?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/2/appearances/1?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/3/appearances/1?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/4/appearances/1?width=450&amp;height=450&amp;mediaType=webp"
+            ],
+            "green" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/1/appearances/594?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/2/appearances/594?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/3/appearances/594?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/4/appearances/594?width=450&amp;height=450&amp;mediaType=webp"
+            ], 
+            "blue" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/1/appearances/4?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/2/appearances/4?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/3/appearances/4?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/4/appearances/4?width=450&amp;height=450&amp;mediaType=webp"
+            ], 
+            "skyblue" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/1/appearances/3?width=450&amp;height=450&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/2/appearances/3?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/3/appearances/3?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/4/appearances/3?width=450&amp;height=450&amp;mediaType=webp"
+            ], 
+            "red" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/1/appearances/5?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/2/appearances/5?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/3/appearances/5?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/4/appearances/5?width=450&amp;height=450&amp;mediaType=webp"
+            ], 
+            "yellow" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/1/appearances/7?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/2/appearances/7?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/3/appearances/7?width=450&amp;height=450&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/6/views/4/appearances/7?width=450&amp;height=450&amp;mediaType=webp"
+            ]
+        },
+        "child": {
+            "white" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/457/views/1/appearances/1?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/457/views/2/appearances/1?width=300&amp;height=300&amp;mediaType=webp"
+            ],
+            "black" : [
+                "https://image.ibb.co/dhecLG/ninoblackfront.png",
+                "https://image.ibb.co/foQdSw/ninoblackback.png" 
+            ], 
+            "red" : [
+                "https://image.ibb.co/fZKoSw/ninoredfront.png", 
+                "https://image.ibb.co/dLs6fG/ninoredback.png"
+            ]
+        },
+        "baby": {
+            "white" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/1?width=300&amp;height=300&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/1?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "black" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/2?width=300&amp;height=300&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/2?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "red" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/196?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/196?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "blue" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/469?width=300&amp;height=300&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/469?width=300&amp;height=300&amp;mediaType=webp"
+            ]
+        }
+    },
+    "female": {
+        "adult" : {
+            "pink" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/1/appearances/391?width=300&&amp;height=300&&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/2/appearances/391?width=300&&amp;height=300&&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/3/appearances/391?width=300&&amp;height=300&&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/4/appearances/391?width=300&&amp;height=300&&amp;mediaType=webp"
+            ], 
+            "grey" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/1/appearances/489?width=300&amp;height=300&&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/2appearances/489?width=300&amp;height=300&&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/3/appearances/489?width=300&amp;height=300&&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/4/appearances/489?width=300&amp;height=300&&amp;mediaType=webp"
+            ], 
+            "white" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/1/appearances/1?width=300&amp;height=300&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/2/appearances/1?width=300&amp;height=300&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/3/appearances/1?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/4/appearances/1?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "black" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/1/appearances/2?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/2/appearances/2?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/3/appearances/2?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/4/appearances/2?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "red" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/1/appearances/196?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/2/appearances/196?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/3/appearances/196?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/4/appearances/196?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "blue" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/1/appearances/17?width=300&amp;height=300&amp;mediaType=webp",
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/2/appearances/17?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/3/appearances/17?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/1214/views/4/appearances/17?width=300&amp;height=300&amp;mediaType=webp"
+            ]
+        },
+        "child" : {
+            "white" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/664/views/1/appearances/1?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/664/views/1/appearances/1?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "green" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/664/views/1/appearances/441?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/664/views/1/appearances/441?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "orange" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/664/views/1/appearances/389?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/664/views/1/appearances/389?width=300&amp;height=300&amp;mediaType=webp"
+            ]
+        },
+        "baby" : {
+            "pink" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/193?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/193?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "white" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/1?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/1?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "black" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/2?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/2?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "red" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/196?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/196?width=300&amp;height=300&amp;mediaType=webp"
+            ], 
+            "skyblue" : [
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/1/appearances/239?width=300&amp;height=300&amp;mediaType=webp", 
+                "http://image.spreadshirtmedia.net/image-server/v1/productTypes/560/views/2/appearances/239?width=300&amp;height=300&amp;mediaType=webp"
+            ]
+        }
+    }
+}
