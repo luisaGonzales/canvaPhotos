@@ -18,7 +18,6 @@ export const draw = () => {
             store.setState({
                 allImage : img,
             })
-            // document.write('<img src="' + img + '" width="328" height="526"/>');
         }
     };
 }
